@@ -27,6 +27,7 @@ gem 'jbuilder', '~> 2.5'
 gem 'bootstrap-sass'
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
+gem 'devise', '~> 4.2.0' 
 
 group :development, :test do
   gem 'sqlite3'
