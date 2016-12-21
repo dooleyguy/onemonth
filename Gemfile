@@ -28,6 +28,7 @@ gem 'bootstrap-sass'
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 gem 'devise', '~> 4.2.0' 
+gem 'paperclip', '~> 4.2'
 
 group :development, :test do
   gem 'sqlite3'
